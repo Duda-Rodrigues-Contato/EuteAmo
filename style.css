@@ -1,0 +1,26 @@
+@media screen {
+    
+}
+
+.mensagem-principal {
+    font-family: "Concert One", serif;
+    font-weight: 400;
+    font-style:normal;
+    font-size: 50px;
+    color: #f17ea1;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.pedido-desculpas {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 5%;
+    color: palevioletred;
+
+}
+
+h3 {
+    font-size: 30px;
+}
